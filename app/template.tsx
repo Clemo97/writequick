@@ -19,7 +19,7 @@ const Template: FC<TemplateProps> = ({ children }) => {
         <nav className="flex items-center justify-between py-8">
           <Link href={"/"} className={"text-xl font-semibold text-primary-500 flex items-center gap-2"}>
             <img src={LogoSVG.src} alt="WriteQuick" className={"h-6"} />
-            writeQuick
+            WriteQuick
           </Link>
           <div className={"flex items-center space-x-4"}>
             <Button className={"flex items-center gap-2"} href={process.env.NEXT_PUBLIC_PROJECT_LINK}>
