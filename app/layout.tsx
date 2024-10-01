@@ -10,9 +10,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "SupaWriter - Improve Your Typing Speed and Accuracy",
+  title: "WriteQuick - Improve Your Typing Speed and Accuracy",
   description:
-    "Play SupaWriter, a fun ten-finger typing game that helps you type faster and more accurately. Compete with others on the leaderboard and track your progress!",
+    "Play WriteQuick, a fun ten-finger typing game that helps you type faster and more accurately. Compete with others on the leaderboard and track your progress!",
   keywords:
     "typing, ten fingers, speed, accuracy, leaderboard, typing test, typing game, typing practice, typing speed, typing accuracy, typing competition",
 };

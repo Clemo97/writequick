@@ -18,8 +18,8 @@ const Template: FC<TemplateProps> = ({ children }) => {
       <div className={"container"}>
         <nav className="flex items-center justify-between py-8">
           <Link href={"/"} className={"text-xl font-semibold text-primary-500 flex items-center gap-2"}>
-            <img src={LogoSVG.src} alt="SupaWriter" className={"h-6"} />
-            SupaWriter
+            <img src={LogoSVG.src} alt="WriteQuick" className={"h-6"} />
+            writeQuick
           </Link>
           <div className={"flex items-center space-x-4"}>
             <Button className={"flex items-center gap-2"} href={process.env.NEXT_PUBLIC_PROJECT_LINK}>
@@ -34,7 +34,7 @@ const Template: FC<TemplateProps> = ({ children }) => {
         <p className={"text-center text-gray-400 text-sm"}>
           Made with ❤️ by{" "}
           <a href="mailto:adem-uysal@outlook.com" className={"underline"}>
-            Adem Uysal
+            Clement Lumumba
           </a>
         </p>
       </footer>

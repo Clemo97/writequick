@@ -1,11 +1,11 @@
 # SupaWriter
 
-SupaWriter is a ten-finger typing game that helps you improve your typing speed and accuracy. It also features a
+WriteQuick is a ten-finger typing game that helps you improve your typing speed and accuracy. It also features a
 leaderboard to see how you are performing compared to others.
 
 ## How to play?
 
-1. Go to [SupaWriter](https://supawriter.vercel.app).
+1. Go to [WriteQuick](https://writequick.vercel.app).
 2. Enter your nickname.
 3. Start typing in the input box at the bottom of the random paragraph; the timer will begin.
 4. You have 30 seconds to type as much as you can.
